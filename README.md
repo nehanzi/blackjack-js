@@ -34,11 +34,11 @@ To play the game locally:
 
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/your-username/blackjack-game.git
+   git clone https://github.com/nehanzi/blackjack-js.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`bash
-   cd blackjack-game
+   cd blackjack-js
    \`\`\`
 3. Open the `index.html` file in your web browser to start the game.
 
